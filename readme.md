@@ -62,7 +62,7 @@ We are accepting all pull requests. [Read More](https://github.com/AllAlgorithms
 
 Informally, an algorithm is any well-defined computational procedure that takes
 some value, or set of values, as input and produces some value, or set of values, as
-output. An algorithm is thus a sequence of computational steps that transform the
+output. An algorithm is thus a sequence of computational steps that transforms the
 input into the output.
 
 An algorithm should have three important characteristics to be considered valid:
